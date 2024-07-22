@@ -4,7 +4,6 @@
 ###
 
 <p align="left">I Miss U~,I am a fullstack developer</p>
-<img align="right" alt="Coder GIF" width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ###
 
@@ -95,6 +94,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
+<img align="right" alt="Coder GIF" width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ###
 
