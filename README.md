@@ -1,16 +1,10 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](image_head)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Imiss-U1025 ,I am a fullstack developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nextjs<br>🎯 Goal To be a passionate Software developer</p>
+<p align="left">I Miss U~,I am a fullstack developer</p>
+<img align="right" alt="Coder GIF" width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ###
 
